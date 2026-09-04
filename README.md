@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sudhanshu Singh<br><br>💻 Computer Science Engineering student and aspiring Full Stack Developer.<br><br>☕ I enjoy building practical web applications using Java, Spring Boot, REST APIs, MySQL, and JavaScript.<br><br>🚀 Currently learning and improving my skills in software development, backend development, and full-stack web development.<br><br>📚 Interested in solving programming problems, learning new technologies, and building real-world projects.<br><br>🎯 Open to entry-level Software Development opportunities.
+👋 Hi, I'm Sudhanshu Singh<br><br>💻 Computer Science & Engineering student and aspiring Full Stack Developer.<br><br>☕ I enjoy building practical web applications using Java, Spring Boot, REST APIs, MySQL, and JavaScript.<br><br>🚀 Currently learning and improving my skills in software development, backend development, and full-stack web development.<br><br>📚 Interested in solving programming problems, learning new technologies, and building real-world projects.<br><br>🎯 Open to entry-level Software Development opportunities.
 
 
 ## 🌐 Socials:
